@@ -14,6 +14,7 @@ Members:
 - [mahyar sherafat](https://github.com/sherafat79)
 - [Nima Gholami](https://github.com/Nimaism)
 - [amir heydari](https://github.com/amirheydarii)
+- [Majid Pilpa](https://github.com/majid-pilpa)
 
 > حالا صفحه اینستاگرم‌ **کمپین برنامه‌نویسان سحرخیز** رو فالو کن 👇
 
