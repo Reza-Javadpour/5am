@@ -15,6 +15,6 @@ Members:
 - [Nima Gholami](https://github.com/Nimaism)
 - [amir heydari](https://github.com/amirheydarii)
 
-> حالا صفحه اینستاگرhم‌ **کمپین برنامه‌نویسان سحرخیز** رو فالو کن 👇
+> حالا صفحه اینستاگرام‌ **کمپین برنامه‌نویسان سحرخیز** رو فالو کن 👇
 
 <a href="http://www.instagram.com/5am.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="16" height="16" /> Instagram >  **@5am.dev**</a>
