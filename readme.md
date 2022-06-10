@@ -14,6 +14,7 @@ Members:
 - [mahyar sherafat](https://github.com/sherafat79)
 - [Nima Gholami](https://github.com/Nimaism)
 - [amir heydari](https://github.com/amirheydarii)
+- [mahyar kermani](https://github.com/mahyarkermani)
 
 > حالا اینستاگرام‌ و تلگرام **کمپین برنامه‌نویسان سحرخیز** رو دنبال کن 👇
 
