@@ -17,6 +17,7 @@ Members:
 - [mahyar kermani](https://github.com/mahyarkermani)
 - [Majid Pilpa](https://github.com/majid-pilpa)
 - [Ramin Ghadiri](https://github.com/ramin-ghadiri)
+- [Abraham Shadafrough ヅ](https://github.com/shadafrough)
 
 > حالا اینستاگرام‌ و تلگرام **کمپین برنامه‌نویسان سحرخیز** رو دنبال کن 👇
 
