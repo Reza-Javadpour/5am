@@ -10,6 +10,7 @@ Sample:
 `- [Yourname](your github profile url)`
 
 Members:
+
 - [😎 Reza Javadpour](https://github.com/Reza-Javadpour)
 - [mahyar sherafat](https://github.com/sherafat79)
 - [Nima Gholami](https://github.com/Nimaism)
@@ -17,11 +18,11 @@ Members:
 - [mahyar kermani](https://github.com/mahyarkermani)
 - [Majid Pilpa](https://github.com/majid-pilpa)
 - [Ramin Ghadiri](https://github.com/ramin-ghadiri)
+- [Amirreza Jamali](https://github.com/Amir-Rezuw)
 - [Abraham Shadafrough ヅ](https://github.com/shadafrough)
 
 > حالا اینستاگرام‌ و تلگرام **کمپین برنامه‌نویسان سحرخیز** رو دنبال کن 👇
 
-<a href="http://www.instagram.com/5am.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="16" height="16" /> Instagram >  **@5am.dev**</a>
+<a href="http://www.instagram.com/5am.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="16" height="16" /> Instagram > **@5am.dev**</a>
 
-<a href="https://t.me/fiveam_dev_channel" target="_blank" rel="noreferrer"><img src="https://telegram.org/img/favicon-32x32.png" width="16" height="16" /> Telegram >  **5am.dev** Channel</a>
-
+<a href="https://t.me/fiveam_dev_channel" target="_blank" rel="noreferrer"><img src="https://telegram.org/img/favicon-32x32.png" width="16" height="16" /> Telegram > **5am.dev** Channel</a>
