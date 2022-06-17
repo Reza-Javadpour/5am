@@ -21,6 +21,7 @@ Members:
 - [Amirreza Jamali](https://github.com/Amir-Rezuw)
 - [Abraham Shadafrough ヅ](https://github.com/shadafrough)
 - [Sajad mozaffar](https://github.com/Sajadqadir01)
+- [Hossein-Yasbolaghi](https://github.com/Hossein-Yasbolaghi)
 
 > حالا اینستاگرام‌ و تلگرام **کمپین برنامه‌نویسان سحرخیز** رو دنبال کن 👇
 
