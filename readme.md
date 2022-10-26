@@ -17,6 +17,7 @@ Members:
 - [amir heydari](https://github.com/amirheydarii)
 - [mahyar kermani](https://github.com/mahyarkermani)
 - [Majid Pilpa](https://github.com/majid-pilpa)
+- [⚡ Mahdi Sharif](https://github.com/pardaad)
 - [Ramin Ghadiri](https://github.com/ramin-ghadiri)
 - [Amirreza Jamali](https://github.com/Amir-Rezuw)
 - [Abraham Shadafrough ヅ](https://github.com/shadafrough)
