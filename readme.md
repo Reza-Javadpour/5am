@@ -21,7 +21,6 @@ Members:
 - [Amirreza Jamali](https://github.com/Amir-Rezuw)
 - [Abraham Shadafrough ヅ](https://github.com/shadafrough)
 - [Sajad mozaffar](https://github.com/Sajadqadir01)
-- [Hossein-Yasbolaghi](https://github.com/Hossein-Yasbolaghi)
 - [Parsa Ezati](https://github.com/ParsaEzati)
 - [⚡ Mohammad Rezaei](https://github.com/MohammadRezaei5)
 - [⚡ Mahdi Tasha](https://github.com/MohamadMahdi-Tasha)
